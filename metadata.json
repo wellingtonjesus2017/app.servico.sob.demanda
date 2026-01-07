@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ServiX - Marketplace Sob Demanda",
+  "description": "Um marketplace premium que conecta clientes aos melhores profissionais para limpeza, encanamento, reparos e muito mais. Com rastreamento em tempo real, pagamentos seguros e descrições inteligentes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
